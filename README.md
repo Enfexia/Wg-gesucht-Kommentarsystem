@@ -1,4 +1,4 @@
-# Wg-gesucht-Kommentarsystem
+# Wg-gesucht.com Kommentarsystem
 Tampermonkey Skript zum Schreiben von Kommentaren auf der wg gesucht Website.
 
 ## Kommentar hinzufügen
