@@ -10,7 +10,6 @@
 
 (function() {
     var i = 0
-
     if($('#filterBox')[0] == undefined){
         var ev_id = $('#rhs_column > div.panel.panel-rhs-default.rhs_contact_information.hidden-sm > div.panel-body > div > div:nth-child(11)').text();
 
